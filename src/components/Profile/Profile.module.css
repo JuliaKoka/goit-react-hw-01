@@ -1,0 +1,36 @@
+.container {
+  display: block;
+  margin: 0 auto;
+  padding: 10px;
+  border: 5px red;
+  border-style: solid;
+  border-color: black;
+  border-radius: 8px;
+}
+
+.info {
+  margin: 0 auto;
+}
+
+.list {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 30px;
+  padding: 5px;
+  border-style: solid;
+  border-color: black;
+}
+
+.liStyle {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 3px;
+}
+
+.img {
+  border-radius: 50px;
+  width: 120px;
+}

@@ -5,13 +5,18 @@
   align-items: center;
   gap: 8px;
   border-style: solid;
-  border-color: black;
+  border: 2px solid black;
   border-radius: 8px;
-  padding: 3px;
+  padding: 10px;
 }
 
 .img {
-  padding: 15px;
+  width: 90px;
+}
+
+.text {
+  font-weight: 600;
+  font-size: 25px;
 }
 
 .isOnline {
